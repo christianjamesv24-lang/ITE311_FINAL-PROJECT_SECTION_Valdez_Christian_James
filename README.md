@@ -6,7 +6,7 @@ FixitNow: Appliance Maintenance and Service Management System
 
 Student Name
 
-Eugene Cava
+Christian James Valdez
 
 
 
